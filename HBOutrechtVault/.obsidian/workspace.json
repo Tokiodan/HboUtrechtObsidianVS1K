@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Basis Python.md",
+                "file": "Project/Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basis Python"
+              "title": "Python"
             }
           },
           {
@@ -204,11 +204,14 @@
   },
   "active": "90a18af73ceec004",
   "lastOpenFiles": [
+    "Project/Basis Python.md",
+    "Project/Python.md",
+    "MOD/MOD Week 3-4.md",
+    "CSC/CSC Week 3-4.md",
     "CSC/CSC week 1-2.md",
+    "Untitled",
     "MOD/MOD week 1-2.md",
     "2026-09-07.md",
-    "Untitled",
-    "Project/Basis Python.md",
     "Project/Python.md",
     "Expressies.md",
     "Data types.md",
