@@ -318,3 +318,5 @@ def new_password(oldpassword, newpassword):
 5. **Test de functie** door hem aan te roepen binnen een `print(...)`, met verschillende waarden.
 
 6. **Check de grensgevallen:** precies 120 cm, precies 6 tekens, lege lijst, enzovoort.
+
+beter leren jullie dit :pensive:
